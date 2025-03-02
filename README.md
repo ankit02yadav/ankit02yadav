@@ -5,7 +5,7 @@ exploring new technologies in the world of software development.
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ankit02yadav" alt="ankit02yadav" /></a> 
+        <img src="https://github-profile-trophy.vercel.app/?username=ankit02yadav&theme=radical" alt="ankit02yadav" /></a> 
 </p>
 
 
@@ -86,9 +86,10 @@ exploring new technologies in the world of software development.
         alt="ankit02yadav" /></p>
 
 <br>
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit02yadav&show_icons=true&theme=radical)
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api?username=ankit02yadav&show_icons=true&locale=en&theme=radical"
+        alt="ankit02yadav" /></p>
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit02yadav&theme=radical" alt="ankit02yadav" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit02yadav&theme=radical" alt="ankit02yadav" />
 </p>
