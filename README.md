@@ -30,12 +30,13 @@ exploring new technologies in the world of software development .
     <img src="https://th.bing.com/th/id/OIP.qmiB0BOuhQOAtDcEW3wDsQHaHa?rs=1&pid=ImgDetMain" alt="nodejs" width="40" height="40"  >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
 </p>
+<!-- This is a comment in the README file 
 <h3>App Development </h3>
 <P>
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
 </P>
-
+-->
 <h3>Database :</h3>
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
