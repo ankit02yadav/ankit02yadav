@@ -21,6 +21,7 @@ exploring new technologies in the world of software development .
     <img src="https://images.icon-icons.com/2699/PNG/512/numpy_logo_icon_168071.png" alt="NumPy" width="40" height="40" />
     <img src="https://destinytoolbox.net/python/pics/pandas_logo.png" alt="pandas" width="40" height="40" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="seaborn" width="40" height="40" />
     <img src="https://www.pngrepo.com/png/353949/512/jupyter.png" alt="jupyterNotebook" width="40" height="40" >
 </p>
 <h3>Frontend Development :</h3>
