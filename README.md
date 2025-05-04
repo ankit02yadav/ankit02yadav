@@ -70,5 +70,5 @@ exploring new technologies in the world of software development .
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit02yadav&theme=radical" alt="ankit02yadav" />
 </p>
 <p align="left" >
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit02yadav&show_icons=true&locale=en&layout=compact&theme=radical" alt="ankit02yadav" /></p> 
+    <img  src=https://github-readme-stats.vercel.app/api/top-langs?username=ankit02yadav&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="ankit02yadav" /></p> 
 <img align="left" src="https://github-contributor-stats.vercel.app/api?username=ankit02yadav&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="ankit02yadav">
