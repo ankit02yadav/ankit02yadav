@@ -14,7 +14,7 @@ exploring new technologies in the world of software development .
 <p >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-    <img src="https://www.puresourcecode.com/wp-content/uploads/2020/10/csharp-logo.png" alt="csharp" width="40" height="40" />
+    <img src="https://www.puresourcecode.com/wp-content/uploads/2020/10/csharp-logo.png" alt="csharp" width="50" height="40" />
 </p>
 <h3>Python Essentials :</h3>
 <p >
