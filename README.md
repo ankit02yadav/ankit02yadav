@@ -1,5 +1,6 @@
 ## Hi there! 👋
 
+
 I'm **Ankit Yadav**, a passionate developer based in **New Delhi, India**. I love building innovative solutions and
 exploring new technologies in the world of software development .
 
@@ -30,7 +31,6 @@ exploring new technologies in the world of software development .
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
 </p>
 <h3>Backend Development :</h3>
 <p >
