@@ -34,11 +34,10 @@ exploring new technologies in the world of software development .
 </p>
 <h3>Backend Development :</h3>
 <p >
-    <img src="https://th.bing.com/th/id/OIP.qmiB0BOuhQOAtDcEW3wDsQHaHa?rs=1&pid=ImgDetMain" alt="nodejs" width="40" height="40"  >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
     <img src="https://1.bp.blogspot.com/-sqAjIvOtpXI/XYoCmqOyMwI/AAAAAAAAJig/CowR8wgEauEs-RXN2IPmLYkC7NHoHuA3gCLcBGAsYHQ/s1600/node-js-logo.png" alt="nodejs" width="40" height="40" />
-    <img src="https://tse1.mm.bing.net/th/id/OIP.Qi4XWRD1VftBU2HyH7Tl0wHaCb?cb=iwp2&w=728&h=239&rs=1&pid=ImgDetMain" alt="express.js" width="40" height="40" />
-    <img src="https://www.toucantoco.com/hs-fs/hubfs/rest-api-icon.webp?width=367&height=300&name=rest-api-icon.webp" alt="restapi" width="40" height="40" />
+    <img src="https://miro.medium.com/v2/resize:fit:1800/1*HTy1M1eFC7GoW6odSukQVw.png" alt="express.js" width="40" height="40" />
+    <img src="https://www.iexcel-technologies.com/wp-content/uploads/2020/03/rest-api-logo.png" alt="restapi" width="40" height="40" />
 </p>
 <!-- This is a comment in the README file 
 <h3>App Development </h3>
