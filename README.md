@@ -36,7 +36,7 @@ exploring new technologies in the world of software development .
 <p >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
     <img src="https://1.bp.blogspot.com/-sqAjIvOtpXI/XYoCmqOyMwI/AAAAAAAAJig/CowR8wgEauEs-RXN2IPmLYkC7NHoHuA3gCLcBGAsYHQ/s1600/node-js-logo.png" alt="nodejs" width="40" height="40" />
-    <img src="https://miro.medium.com/v2/resize:fit:1800/1*HTy1M1eFC7GoW6odSukQVw.png" alt="express.js" width="40" height="40" />
+    <img src="https://miro.medium.com/v2/resize:fit:1800/1*HTy1M1eFC7GoW6odSukQVw.png" alt="express.js" width="80" height="40" />
     <img src="https://www.iexcel-technologies.com/wp-content/uploads/2020/03/rest-api-logo.png" alt="restapi" width="40" height="40" />
 </p>
 <!-- This is a comment in the README file 
