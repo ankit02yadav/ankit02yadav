@@ -9,7 +9,7 @@ exploring new technologies in the world of software development .
 </p>
 
 
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Software Developer from India</h3>
 
 <h3>Languages :</h3>
 <p >
