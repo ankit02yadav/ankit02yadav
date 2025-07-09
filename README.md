@@ -2,7 +2,7 @@
 
 
 I'm **Ankit Yadav**, a passionate developer based in **New Delhi, India**. I love building innovative solutions and
-exploring new technologies in the world of software development .
+exploring new technologies in the world of software development
 
 <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=ankit02yadav&theme=radical" alt="ankit02yadav" />
