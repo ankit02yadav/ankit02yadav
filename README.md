@@ -13,7 +13,7 @@ exploring new technologies in the world of software development
 
 <h3>Languages :</h3>
 <p >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> 
+    <img src="https://www.ingenioempresa.com/wp-content/uploads/2022/09/C-Language-1-927x1024.png" alt="c" width="40" height="40" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     <img src="https://th.bing.com/th/id/R.d5fecb8dec83c7d87df23656f61a51e5?rik=giwby0KEhLlPEQ&riu=http%3a%2f%2frust-lang.org%2flogos%2frust-logo-512x512.png&ehk=fLtV4l2OjyRvC3QnMXDP5%2f7dnwFYK%2f5E5n9jgF6CSkk%3d&risl=&pid=ImgRaw&r=0" alt="rust" width="40" height="40" />
 </p>
